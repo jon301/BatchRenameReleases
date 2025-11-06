@@ -1,0 +1,1 @@
+Public releases of the software BatchRename
